@@ -1,0 +1,10 @@
+/* Style */
+.footer {
+    background-color: palevioletred;
+    padding: 10px;
+}
+.footer .copy {
+    color: #eaeaea;
+    text-align: center;
+    font-size: 12px;
+}
